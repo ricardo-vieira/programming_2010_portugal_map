@@ -1,0 +1,9 @@
+Ricardo Vieira
+<ricardo.vieira@ist.utl.pt>
+
+
+This was my introduction to C it uses the allegro library so you need to install that to compile this program, for that there is a makefile just do:
+
+$ make all
+$ ./proj1011
+
